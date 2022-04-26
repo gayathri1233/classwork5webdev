@@ -1,0 +1,35 @@
+.me{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    padding: 5px ;
+    border:1px solid black
+    
+    }
+
+html,body,header,footer,hgroup,nav,article,section,figure,figcaption,h1,h2,h3,ul,li,body,div,p,img{
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    border:0;
+}
+.ab{
+    padding-right: 100px;
+    text-align: right;
+   font-size: 100%;
+    margin-bottom:none;
+    
+    color: white;
+    
+   
+}
+.tc
+{
+    margin-top: none;
+    background-color:  #cdc5d5;
+    margin-bottom: 30px;
+
+}
